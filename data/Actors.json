@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor2_8","characterIndex":1,"characterName":"Nature","classId":4,"equips":[4,0,2,3,4],"faceIndex":1,"faceName":"Nature","traits":[],"initialLevel":10,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_6","characterIndex":3,"characterName":"Nature","classId":2,"equips":[2,0,0,0,0],"faceIndex":3,"faceName":"Nature","traits":[],"initialLevel":9,"maxLevel":99,"name":"Rocky","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_6","characterIndex":5,"characterName":"Actor3","classId":1,"equips":[1,0,0,0,0],"faceIndex":5,"faceName":"Actor3","traits":[],"initialLevel":80,"maxLevel":99,"name":"ColourPing","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor3_5","characterIndex":0,"characterName":"Nature","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"Nature","traits":[],"initialLevel":80,"maxLevel":99,"name":"Hippy","nickname":"","note":"","profile":""}
+]
